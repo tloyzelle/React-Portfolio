@@ -18,7 +18,7 @@ This application is a Portfolia using React.js throughout!
 
 [Github Repo](https://github.com/tloyzelle/React-Portfolio)
 
-[Deployed Application]()
+[Deployed Application](https://tloyzelle.github.io/ReactPortfolio)
 
 ## Installation
 Run npm i in terminal to install all needed dependencies. 
