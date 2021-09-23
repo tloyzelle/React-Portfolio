@@ -1,0 +1,58 @@
+[
+    {
+        "id":1,
+        "name": "Cooper and Dans Toyboc",
+        "description": "Cooper and Dans Toybox is a application that requires a user to login to gain access, there you can view the existing cat and dog items that you can purchase. When one of the items is selected the user can view the image, details, and price of each, and all the products are sorted into cat or dog categories.",
+        "link": "https://cooper-and-dans-toybox.herokuapp.com/",
+        "repo": "https://github.com/tloyzelle/Project-2.git",
+        "image": "ReactPortfolio/img/cooperDans.png",
+        "tech": "JavaScript, Node, Handlebars, MySQL, ExpressJS, Bulma, Insomnia"
+    },
+    {
+        "id":2,
+        "name": "Marvel",
+        "description": "This Marvel application allows for you to select a chracter from the Marvel universe and through a API it can bring up not only different movies the character was in, but different comics they were in as well. It also displays the cover of a comic the character is featured in using another API.",
+        "link": "https://tloyzelle.github.io/Project-Marvel/",
+        "repo": "https://github.com/tloyzelle/Project-Marvel",
+        "image": "ReactPortfolio/img/marvel.png",
+        "tech": "Javascript, Node, Express.js, Node"
+    },
+    {
+        "id":3,
+        "name": "Budget Tracker",
+        "description": "This budget tracker application allows the user to see a graph that can show how their budget is acting throughout their purchases. They can enter a price and a description that can either add to their budget (like a payment), or take away from their budget (like a purchase).",
+        "link": "https://budget-tracker-tloyzelle.herokuapp.com/",
+        "repo": "https://github.com/tloyzelle/Budget_Tracker",
+        "image": "ReactPortfolio/img/budgetTracker.png",
+        "tech": "JavaScript, Node, NPM, GitBash, HTML"
+    },
+    {
+    
+        "id":4,
+        "name": "Employee Directory",
+        "description": "This directory has a random expanse of employees but the code to sort through all of them. The user has two different options to filter through the employees, one being by gender, and the other being by last or first name.",
+        "link": "https://tloyzelle.github.io/Employee_Directory/",
+        "repo": "https://github.com/tloyzelle/Employee_Directory",
+        "image": "ReactPortfolio/img/empDir-1.png",
+        "tech": "JavaScript, Node, MySQL, Insomnia"
+    },
+    {
+        "id":5,
+        "name": "Code Quiz",
+        "description": "This application uses different pages to take the user through a coding quiz that also tracks your score as you go throughout and tells you which ones you have gotten correct or wrong. At the end you can see your score and also be put into the highscores page where the highest scores are featured the more you play.",
+        "link": "https://tloyzelle.github.io/Coding_Assessment/",
+        "repo": "https://github.com/tloyzelle/Coding_Assessment",
+        "image": "ReactPortfolio/img/codequiz.png",
+        "tech": "JavaScript, Node, HTML"
+    },
+    {
+        "id":6,
+        "name": "Work Day Scheduler",
+        "description": "This application allows for the user to track what there schdule will look like throuhgout their workday. It allows the user to be able to add a task throughout the hours of a normal workday, or take off tasks that you have completed or canceled, and it can track what the time of day is so you can see from the application where you are at from your schedule.",
+        "link": "https://tloyzelle.github.io/WorkDay_Scheduler/",
+        "repo": "https://github.com/tloyzelle/WorkDay_Scheduler",
+        "image": "ReactPortfolio/img/workday.png",
+        "tech": "Javascript, HTML, Node, MySQL"
+    }
+        
+]
