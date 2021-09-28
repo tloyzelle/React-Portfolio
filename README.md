@@ -1,4 +1,4 @@
-# React-Portfolio
+# react-portfolio
 
 ## Table of Contents
 
